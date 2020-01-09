@@ -3,7 +3,7 @@ cookbooks
 data
 .vagrant
 .git
-
+.ssh
 
 # Logs
 logs
